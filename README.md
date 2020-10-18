@@ -1,7 +1,11 @@
 <h1 align="center">Reddit Wallpaper Changer</h1>
 
 <p align="center">
-<img src="https://github.com/AndroShivam/Recommify/blob/main/screenshots/recommify.gif?raw=true"/>
+<img src="https://github.com/AndroShivam/Reddit-Wallpaper-Changer/blob/main/screenshot1.png"/>
+</p>
+<br>
+<p align="center">
+<img src="https://github.com/AndroShivam/Reddit-Wallpaper-Changer/blob/main/screenshot2.png"/>
 </p>
 
 ## Tech stack & Open-source libraries
