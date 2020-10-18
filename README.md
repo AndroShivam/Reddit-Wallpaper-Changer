@@ -1,5 +1,6 @@
 <h1 align="center">Reddit Wallpaper Changer</h1>
 
+## Screenshots
 <p align="center">
 <img src="https://github.com/AndroShivam/Reddit-Wallpaper-Changer/blob/main/screenshot1.png"/>
 </p>
